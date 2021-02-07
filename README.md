@@ -10,6 +10,8 @@ This repository contains guidelines for building and setting up the drones, WiFi
 Description
 -----------
 
+Tu cola peluda!!!
+
 Drone Show Software requires a custom Pixhawk firmware due to special flight mode and commands it uses. Pixhawk hardware or copies thereof can be used. These autopilots are widely available and available for purchase from most drone part dealers.
 
 Drones can be used with standard GPS units, but to ensure flight precision that is necessary for drone shows, we recommend using RTK GPS units.
